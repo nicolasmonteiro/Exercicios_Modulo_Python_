@@ -1,0 +1,6 @@
+#2.Calcule o valor de uma prestação em atraso, utilizando a fórmula: PRESTAÇÃO = VALOR+ (VALOR * (TAXA/100) * TEMPO)
+val = float(input("Informe o valor original: \n") )
+tax = float(input("Informe a taxa: \n"))
+temp = int (input("Informe o tempo de atraso \n"))
+prest = (val + (val* (tax/100) * temp))
+print("O Valor da prestação com atraso é:", prest)
