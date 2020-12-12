@@ -1,0 +1,28 @@
+Cadastrado
+Nome: Nicolas
+Idade: 22
+--------------------
+Cadastrado
+Nome: Mylena
+Idade: 24
+--------------------
+Cadastrado
+Nome: Willemberg
+Idade: 19
+--------------------
+Cadastrado
+Nome: Nicolas
+Idade: 22
+--------------------
+Cadastrado
+Nome: Myla
+Idade: 25
+--------------------
+Cadastrado
+Nome: Berg
+Idade: 19
+--------------------
+Cadastrado
+Nome: 24
+Idade: Iza
+--------------------
